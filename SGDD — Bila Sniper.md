@@ -1,7 +1,6 @@
 # SGDD — Bila Sniper
 **Título provisório**
 
-**Data:** 14 de outubro de 2026  
 **Autor:** @Natan
 
 ---
