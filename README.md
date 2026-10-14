@@ -41,6 +41,13 @@ Extras planejados
 - Segundo cenário e mais níveis de IA.  
 - Mais polimento em áudio e efeitos visuais.
 
+  
+Documentação 
+----------------------------------------------------------
+- O SGDD do jogo explicando mais detalhadamente suas mecanicas se encontra dentro da Pasta Docs
+
+
+
 Créditos e assets de terceiros
 ------------------------------
 
