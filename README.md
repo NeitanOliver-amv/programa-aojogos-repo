@@ -30,7 +30,7 @@ Modos incluídos na V1
 
 Como executar 
 --------------------------
-
+Atualmente copie a pasta e execute como um projeto do godot, a versao de desenvolvimento atual e o godot 4.7.2
 
 
 Extras planejados 
