@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://7f0ijohiosrb"]
+
+[ext_resource type="Script" uid="uid://cwgr3kup1y4f2" path="res://scripts/mesa.gd" id="1_3koje"]
+
+[node name="Mesa" type="Node2D" unique_id=1019560211]
+script = ExtResource("1_3koje")
